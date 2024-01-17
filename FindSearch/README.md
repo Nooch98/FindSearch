@@ -1,4 +1,7 @@
-# MODULO [FINDSEARCH]
+# MODULO FINDSEARCH
+
+### RECOMENDATION
+> This module is testing in powershell 7.
 
 ## DESCRIPTION
 
@@ -19,5 +22,22 @@ find  text.txt
 ```powershell
 
 donde <Name of program>
+
+```
+### INSTALL
+
+> How to install this PowerShell module
+
+```powershell
+
+git clone https://github.com/Nooch98/FindSearch.git
+
+```
+
+> Copy the `FindSearch` folder to the modules directory of your PowerShell
+> In your profile file add the next line
+```powershell
+
+Import-Module -Name FindSearch
 
 ```
