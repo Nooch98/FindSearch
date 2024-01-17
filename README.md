@@ -32,3 +32,9 @@ git clone https://github.com/Nooch98/FindSearch.git
 ```
 
 > Copy the `FindSearch` folder to the modules directory of your PowerShell
+> In your profile file add the next line
+```powershell
+
+Import-Module -Name FindSearch
+
+```
