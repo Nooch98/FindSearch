@@ -1,5 +1,8 @@
 # MODULO FINDSEARCH
 
+### RECOMENDATION
+> This module is testing in powershell 7.
+
 ## DESCRIPTION
 
 This module adds two commands to PowerShell. The find command allows you to search for files in your system, requiring only the filename to search
